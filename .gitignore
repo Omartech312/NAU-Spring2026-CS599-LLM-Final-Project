@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.npm
+*.log
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Data / uploads / instance
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/instance/
+backend/data/*.db
+backend/data/*.sqlite*
+
+# Build
+build/
+*.egg
+.cursor/
