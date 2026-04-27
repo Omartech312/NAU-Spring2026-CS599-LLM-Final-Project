@@ -18,8 +18,8 @@ Upload academic PDFs and get AI-powered summaries and Q&A with exact citation gr
 ### 1. Clone and Enter Project
 
 ```bash
-git clone <your-repo-url>
-cd citation-llm
+git clone https://github.com/hienngt/NAU-Spring2026-CS599-LLM-Final-Project
+cd NAU-Spring2026-CS599-LLM-Final-Project/
 ```
 
 ### 2. Create and Configure Environment Files
